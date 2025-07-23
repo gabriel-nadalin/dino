@@ -25,7 +25,7 @@ Este projeto recria o famoso jogo offline do Google Chrome (T-Rex Runner) em har
 * Conecte a saída VGA a um monitor
 * Abra o Altera Monitor Program
 * Crie um novo projeto usando o modelo "video" como base. Certifique-se de selecionar o _device_ correto
-* Substitua o código dentro do `video.c` pelo conteúdo do `dino_vga.c`
+* Substitua o código dentro do `video.c` pelo conteúdo do `dino.c`
 * Compile o código e carregue-o na FPGA
 
 ## Módulos
