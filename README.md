@@ -36,4 +36,4 @@ Este projeto recria o famoso jogo offline do Google Chrome (T-Rex Runner) em har
 
 ## Demonstração
 
-https://github.com/user-attachments/assets/7e5e9855-d207-4750-b103-e592a91e6ceb
+https://github.com/user-attachments/assets/758e0d5b-0491-406a-b9c5-0e2ce750eec1
