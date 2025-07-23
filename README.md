@@ -33,3 +33,7 @@ Este projeto recria o famoso jogo offline do Google Chrome (T-Rex Runner) em har
 * Input: Detecção de interação com o usuário a partir dos botões da FPGA
 * Jogo: Funções para atualizar o estado de jogo entre os frames e detectar colisões
 * Geração procedural: Funções para geração do mapa
+
+## Demonstração
+
+https://github.com/user-attachments/assets/7e5e9855-d207-4750-b103-e592a91e6ceb
