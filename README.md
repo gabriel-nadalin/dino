@@ -1,5 +1,12 @@
-T-REX GAME EM FPGA
+# T-REX GAME EM FPGA
 Uma implementação do clássico jogo T-Rex do Google Chrome para FPGA DE10-Standard com saída de vídeo VGA.
+
+Este projeto foi desenvolvido como parte da disciplina Projeto de Sistemas Computacionais Embarcados, com o objetivo de aplicar conceitos de programação em baixo nível, interface com hardware e renderização gráfica em sistemas embarcados.  
+
+- Professor Emerson Carlos Pedrino  
+- Bacharelado em Ciência da Computação
+- Departamento de Computação
+- Universidade Federal de São Carlos
 
 ## Descrição
 Este projeto recria o famoso jogo offline do Google Chrome (T-Rex Runner) em hardware utilizando uma placa FPGA DE10-Standard da Intel/Altera. O jogo é exibido através de uma saída VGA e controlado pelos botões físicos da FPGA, proporcionando uma experiência retro de gaming em hardware dedicado.
